@@ -862,3 +862,4 @@ TCP connect to perforce:1666 failed.
 [2019.10.29-20.10.53:417][989]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default8077B46F41A8FC71D136C8BEEC8164FB.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
 [2019.10.29-20.10.53:549][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
 [2019.10.29-20.10.53:610][989]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_BuiltData003600E44E3C5C8A98F6E18576AD1B22.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.14.02:166][647]LogSlate: Took 0.009584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
