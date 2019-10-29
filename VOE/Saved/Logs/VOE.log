@@ -654,3 +654,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-20.30.36:002][560]EditorErrors: Warning: No assets to check in!
 [2019.10.29-20.30.40:145][940]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
 [2019.10.29-20.30.41:990][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.31.24:268][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.31.24:312][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.29-20.31.24:676][792]LogSavePackage: Moving '../../../../Nalesnikovskyi/VOE/Saved/Minimal_Default7625B0A94214FC0E84221381EC5609C8.tmp' to '../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.31.24:830][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.31.25:092][792]LogSavePackage: Moving '../../../../Nalesnikovskyi/VOE/Saved/Minimal_Default_BuiltDataD008DCD6435A0F4C90ED68B0200C2FC9.tmp' to '../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.31.27:165][969]SourceControl: fatal: D:/Programs/UE_4.23/Engine/Content: 'D:/Programs/UE_4.23/Engine/Content' is outside repository
+[2019.10.29-20.31.32:572][969]LogSlate: Window 'Submit Files' being destroyed
+[2019.10.29-20.31.33:922][969]LogSourceControl: commit successful: [master d5dda84] 22222
+[2019.10.29-20.31.34:006][969]SourceControl: [master d5dda84] 22222
+[2019.10.29-20.31.34:006][969]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2019.10.29-20.31.34:015][969]SourceControl: Commited [master d5dda84] 22222.
