@@ -630,3 +630,235 @@ TCP connect to perforce:1666 failed.
 [2019.10.29-18.55.53:988][839]LogWindows: Warning: CreateProc failed: Не удается найти указанный файл. (0x00000002)
 [2019.10.29-18.55.53:988][839]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/ version
 [2019.10.29-18.57.06:135][457]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.778 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-19.01.04:482][634]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-19.01.04:482][634]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-19.01.05:905][796]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.424 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-19.03.24:397][811]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-19.04.04:036][ 87]LogSlate: Window 'Source Control Login' being destroyed
+[2019.10.29-19.04.05:907][303]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.510 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-19.04.15:031][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.10.29-19.09.36:266][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.09.38:961][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.10.38:920][822]Cmd: DELETE
+[2019.10.29-19.10.38:920][822]Cmd: ACTOR DELETE
+[2019.10.29-19.10.38:938][822]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-19.10.39:065][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.29-19.10.39:065][822]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2019.10.29-19.10.39:908][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.10.41:116][ 32]Cmd: DELETE
+[2019.10.29-19.10.41:116][ 32]Cmd: ACTOR DELETE
+[2019.10.29-19.10.41:118][ 32]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-19.10.41:245][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.29-19.10.41:245][ 32]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2019.10.29-19.10.41:905][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.10.48:167][758]Cmd: DELETE
+[2019.10.29-19.10.48:168][758]Cmd: ACTOR DELETE
+[2019.10.29-19.10.48:169][758]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-19.10.48:305][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.29-19.10.48:305][758]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2019.10.29-19.10.50:124][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.10.54:215][398]Cmd: DELETE
+[2019.10.29-19.10.54:215][398]Cmd: ACTOR DELETE
+[2019.10.29-19.10.54:216][398]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-19.10.54:350][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.29-19.10.54:350][398]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2019.10.29-19.10.55:796][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.11.12:276][215]LogActorFactory: Actor Factory created Shape_Cube
+[2019.10.29-19.11.13:050][284]LogActorFactory: Actor Factory created Shape_Cube
+[2019.10.29-19.11.23:405][258]Cmd: EDIT COPY
+[2019.10.29-19.11.24:276][340]Cmd: EDIT PASTE
+[2019.10.29-19.11.33:963][272]Cmd: EDIT PASTE
+[2019.10.29-19.11.38:324][685]Cmd: EDIT PASTE
+[2019.10.29-19.11.42:286][ 53]Cmd: EDIT PASTE
+[2019.10.29-19.11.43:445][159]Cmd: DELETE
+[2019.10.29-19.11.43:445][159]Cmd: ACTOR DELETE
+[2019.10.29-19.11.43:448][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-19.11.43:578][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.10.29-19.11.43:578][159]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2019.10.29-19.11.44:117][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2019.10.29-19.11.44:500][253]Cmd: DELETE
+[2019.10.29-19.11.44:500][253]Cmd: ACTOR DELETE
+[2019.10.29-19.11.44:502][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-19.11.44:631][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.29-19.11.44:632][253]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2019.10.29-19.11.44:885][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2019.10.29-19.11.44:955][283]Cmd: DELETE
+[2019.10.29-19.11.44:955][283]Cmd: ACTOR DELETE
+[2019.10.29-19.11.44:957][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-19.11.45:092][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.29-19.11.45:093][283]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2019.10.29-19.11.45:336][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2019.10.29-19.11.45:437][315]Cmd: DELETE
+[2019.10.29-19.11.45:437][315]Cmd: ACTOR DELETE
+[2019.10.29-19.11.45:439][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-19.11.45:570][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.29-19.11.45:571][315]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2019.10.29-19.11.45:957][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2019.10.29-19.11.46:069][365]Cmd: DELETE
+[2019.10.29-19.11.46:069][365]Cmd: ACTOR DELETE
+[2019.10.29-19.11.46:071][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-19.11.46:201][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.29-19.11.46:201][365]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2019.10.29-19.11.48:922][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.11.48:997][691]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-19.11.49:020][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.29-19.11.49:022][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.11.49:023][691]PIE: New page: PIE session: Minimal_Default (29 окт. 2019, 23:11:49)
+[2019.10.29-19.11.49:039][691]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.10.29-19.11.49:047][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008136s)
+[2019.10.29-19.11.49:048][691]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.29-19.11.49:049][691]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2019.10.29-19.11.49:049][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009776s)
+[2019.10.29-19.11.49:187][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.29-19.11.49:225][691]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.29-19.11.49:252][691]LogInit: FAudioDevice initialized.
+[2019.10.29-19.11.49:303][691]LogLoad: Game class is 'GameModeBase'
+[2019.10.29-19.11.49:314][691]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.10.29-21.11.49
+[2019.10.29-19.11.49:316][691]LogWorld: Bringing up level for play took: 0.001890
+[2019.10.29-19.11.49:355][691]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.29-19.11.49:362][691]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,529
+[2019.10.29-19.11.49:362][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.29-19.12.10:241][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.29-19.12.10:244][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.12.10:280][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.12.10:280][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.10.29-19.12.10:420][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.12.10:426][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.29-19.12.10:452][175]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.29-19.13.41:231][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.13.41:232][615]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-19.13.41:232][615]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-19.14.07:929][ 85]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.29-19.14.17:103][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.14.24:999][651]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.29-19.14.32:017][432]Cmd: DELETE
+[2019.10.29-19.14.32:017][432]Cmd: ACTOR DELETE
+[2019.10.29-19.14.32:020][432]LogEditorActor: Deleted Actor: Character
+[2019.10.29-19.14.32:159][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.29-19.14.32:160][432]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2019.10.29-19.14.38:213][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.14.43:223][729]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at 140.00,520.00,248.00
+[2019.10.29-19.14.44:115][823]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at 50.00,40.00,118.00
+[2019.10.29-19.14.44:745][884]Cmd: DELETE
+[2019.10.29-19.14.44:745][884]Cmd: ACTOR DELETE
+[2019.10.29-19.14.44:748][884]LogEditorActor: Deleted Actor: ArchVisCharacter
+[2019.10.29-19.14.44:878][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.10.29-19.14.44:879][884]LogEditorActor: Deleted 1 Actors (0.133 secs)
+[2019.10.29-19.14.45:921][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.14.48:358][297]LogEditor: Attempting to add actor of class 'ArchVisCharacter' to level at 120.00,520.00,358.00
+[2019.10.29-19.14.49:715][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.14.51:533][651]Cmd: DELETE
+[2019.10.29-19.14.51:533][651]Cmd: ACTOR DELETE
+[2019.10.29-19.14.51:536][651]LogEditorActor: Deleted Actor: Character
+[2019.10.29-19.14.51:668][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.29-19.14.51:669][651]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2019.10.29-19.14.52:160][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.14.53:296][827]Cmd: DELETE
+[2019.10.29-19.14.53:296][827]Cmd: ACTOR DELETE
+[2019.10.29-19.14.53:298][827]LogEditorActor: Deleted Actor: Character
+[2019.10.29-19.14.53:427][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.29-19.14.53:427][827]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2019.10.29-19.20.23:819][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.20.23:819][556]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-19.20.23:819][556]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-19.24.13:435][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.29-19.24.13:666][ 14]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_Auto12AC92C6B4272386D29C2AE80BE9C569A.tmp' to 'E:/VOE/VOE/VOE/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.10.29-19.24.13:687][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.363
+[2019.10.29-19.24.13:687][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2019.10.29-19.27.12:249][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.42.06:615][516]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-19.42.06:615][516]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-19.48.31:706][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.48.32:388][457]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.29-19.48.44:657][912]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.29-19.57.46:236][782]LogSlate: Window 'Source Control Login' being destroyed
+[2019.10.29-19.59.30:632][384]LogSlate: Window 'Source Control Login' being destroyed
+[2019.10.29-19.59.50:588][768]LogActorFactory: Actor Factory created Shape_Cube
+[2019.10.29-19.59.51:470][868]LogActorFactory: Actor Factory created Shape_Cube
+[2019.10.29-19.59.53:228][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-19.59.53:338][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-19.59.53:484][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.10.29-19.59.53:676][ 61]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default908F5113440C54ADB551BC9F5BF43FBF.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-19.59.53:831][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-19.59.53:928][ 61]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_BuiltData323878404D66198D373D3D9232C27234.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.00.33:132][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.00.33:245][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.00.33:375][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.10.29-20.00.33:543][855]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_DefaultBA52BA1E4E64D0F991AA01BEA5DDC46B.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.00.33:684][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.00.33:738][855]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_BuiltData2B345C3D4573C196B1490082B95701F0.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.00.54:156][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.00.58:433][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.01.01:814][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.01.01:916][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.01.02:051][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.10.29-20.01.02:230][377]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_DefaultF5B305D64C56B57966C64D80F8C0546E.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.01.02:356][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.01.02:409][377]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_BuiltDataBBD731934D9E852A47DDA7A6E6BBA400.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.02.59:203][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.02.59:313][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.02.59:447][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.10.29-20.02.59:624][517]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default40DFAE7649DD6E41CC6C1AB152F5933C.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.02.59:780][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.02.59:831][517]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_BuiltData2EDEDC9E40BF51248BE90CB016C8417B.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.03.34:053][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.03.38:722][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.03.47:502][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.03.51:116][852]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.10.29-20.03.51:572][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.04.24:362][852]LogSlate: Window 'Submit Files' being destroyed
+[2019.10.29-20.04.24:371][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.04.24:466][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.04.25:013][852]LogSourceControl: commit successful: [master a2fcca8] 1
+[2019.10.29-20.04.25:094][852]SourceControl: [master a2fcca8] 1
+[2019.10.29-20.04.25:094][852]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2019.10.29-20.04.25:101][852]SourceControl: Commited [master a2fcca8] 1.
+[2019.10.29-20.04.37:815][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.04.51:895][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.05.05:935][149]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.822 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.29-20.05.26:789][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.05.50:018][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.05.53:492][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.05.56:578][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.06.11:422][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.07.27:357][ 70]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit)
+[2019.10.29-20.07.28:289][175]Cmd: DELETE
+[2019.10.29-20.07.28:289][175]Cmd: ACTOR DELETE
+[2019.10.29-20.07.28:292][175]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-20.07.28:426][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.29-20.07.28:426][175]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2019.10.29-20.07.28:979][240]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.10.29-20.07.29:426][285]Cmd: DELETE
+[2019.10.29-20.07.29:426][285]Cmd: ACTOR DELETE
+[2019.10.29-20.07.29:429][285]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-20.07.29:553][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.10.29-20.07.29:553][285]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2019.10.29-20.07.29:893][325]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.10.29-20.07.29:955][326]Cmd: DELETE
+[2019.10.29-20.07.29:955][326]Cmd: ACTOR DELETE
+[2019.10.29-20.07.29:958][326]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.29-20.07.30:072][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.29-20.07.30:073][326]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.10.29-20.07.32:082][565]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks)
+[2019.10.29-20.07.32:234][575]Cmd: DELETE
+[2019.10.29-20.07.32:235][575]Cmd: ACTOR DELETE
+[2019.10.29-20.07.32:236][575]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-20.07.32:361][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.29-20.07.32:362][575]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2019.10.29-20.08.51:039][917]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.10.29-20.08.53:325][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2019.10.29-20.08.56:183][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.08.59:030][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.08.59:173][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.08.59:182][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.08.59:296][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.29-20.08.59:477][804]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_DefaultB97CA84243257A47584B9FAC861DBEAF.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.08.59:511][804]LogFileHelpers: Saving map 'Minimal_Default' took 0.330
+[2019.10.29-20.10.47:854][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.10.52:997][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.10.53:092][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-20.10.53:101][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.10.53:235][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.29-20.10.53:417][989]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default8077B46F41A8FC71D136C8BEEC8164FB.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.10.53:549][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.10.53:610][989]LogSavePackage: Moving 'E:/VOE/VOE/VOE/Saved/Minimal_Default_BuiltData003600E44E3C5C8A98F6E18576AD1B22.tmp' to 'E:/VOE/VOE/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
