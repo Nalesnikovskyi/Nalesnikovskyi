@@ -650,3 +650,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-20.27.57:814][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
 [2019.10.29-20.27.58:385][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
 [2019.10.29-20.27.58:578][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.29-20.30.35:761][560]SourceControl: fatal: D:/Programs/UE_4.23/Engine/Content: 'D:/Programs/UE_4.23/Engine/Content' is outside repository
+[2019.10.29-20.30.36:002][560]EditorErrors: Warning: No assets to check in!
+[2019.10.29-20.30.40:145][940]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.10.29-20.30.41:990][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
