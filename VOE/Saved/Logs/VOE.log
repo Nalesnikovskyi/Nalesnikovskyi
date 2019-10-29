@@ -556,3 +556,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-20.19.47:206][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
 [2019.10.29-20.20.03:187][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.29-20.20.47:239][963]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F01712C5-4406-0F3A-7540-128F71584856}
+[2019.10.29-20.21.15:859][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2019.10.29-20.21.23:520][ 19]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.10.29-20.21.29:353][551]Cmd: DELETE
+[2019.10.29-20.21.29:353][551]Cmd: ACTOR DELETE
+[2019.10.29-20.21.29:767][551]LogEditorActor: Deleted Actor: Emitter
+[2019.10.29-20.21.29:813][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.10.29-20.21.29:814][551]LogEditorActor: Deleted 1 Actors (0.151 secs)
+[2019.10.29-20.21.32:222][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.21.32:441][846]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.29-20.21.32:459][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.21.32:504][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.29-20.21.32:869][846]LogSavePackage: Moving '../../../../Nalesnikovskyi/VOE/Saved/Minimal_Default3A76BF3A43D06EFC35E70F877766CC0E.tmp' to '../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.21.33:037][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.21.33:402][846]LogSavePackage: Moving '../../../../Nalesnikovskyi/VOE/Saved/Minimal_Default_BuiltData48B5C2DF435FA353FD30709732D794A4.tmp' to '../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.21.36:038][117]SourceControl: fatal: D:/Programs/UE_4.23/Engine/Content: 'D:/Programs/UE_4.23/Engine/Content' is outside repository
+[2019.10.29-20.21.49:725][117]LogSlate: Window 'Submit Files' being destroyed
+[2019.10.29-20.21.51:284][117]LogSourceControl: commit successful: [master ef5e6b6] 1.4
+[2019.10.29-20.21.51:368][117]SourceControl: [master ef5e6b6] 1.4
+[2019.10.29-20.21.51:368][117]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2019.10.29-20.21.51:375][117]SourceControl: Commited [master ef5e6b6] 1.4.
+[2019.10.29-20.25.51:996][570]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={95FAD66E-491E-C9C3-E11D-CD9A17776EB7}
+[2019.10.29-20.26.06:927][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.26.38:229][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.26.40:071][646]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2019.10.29-20.26.40:507][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.29-20.26.40:507][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.29-20.26.40:507][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.29-20.26.40:507][646]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.29-20.26.40:618][646]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2019.10.29-20.26.41:114][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2019.10.29-20.26.41:114][646]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.29-20.26.41:381][646]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2019.10.29-20.26.42:133][646]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2019.10.29-20.26.43:125][646]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.29-20.26.43:160][646]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.29-20.26.43:227][646]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.29-20.26.43:345][646]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.29-20.26.43:514][646]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2019.10.29-20.26.43:636][646]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2019.10.29-20.26.43:725][646]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2019.10.29-20.26.44:204][646]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.29-20.26.47:461][791]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 416
+[2019.10.29-20.26.47:820][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 406
+[2019.10.29-20.26.48:029][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 396
+[2019.10.29-20.26.50:319][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.26.50:412][912]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2019.10.29-20.26.51:137][912]LogSavePackage: Moving '../../../../Nalesnikovskyi/VOE/Saved/Minimal_DefaultD8F71E364CD29B0D0C41FAAFB768734C.tmp' to '../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-20.26.51:399][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2019.10.29-20.26.51:484][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 386
+[2019.10.29-20.26.51:820][912]LogSavePackage: Moving '../../../../Nalesnikovskyi/VOE/Saved/Minimal_Default_BuiltDataFCD6EB6A47FE7DE70B77A4BC60E73E30.tmp' to '../../../../Nalesnikovskyi/VOE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.29-20.26.53:152][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 376
+[2019.10.29-20.26.56:776][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 366
+[2019.10.29-20.26.57:259][358]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 356
+[2019.10.29-20.26.57:831][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 346
+[2019.10.29-20.27.01:823][882]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 336
+[2019.10.29-20.27.02:619][976]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 326
+[2019.10.29-20.27.03:350][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 316
+[2019.10.29-20.27.06:059][379]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 306
+[2019.10.29-20.27.09:721][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 296
+[2019.10.29-20.27.10:484][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 286
+[2019.10.29-20.27.10:484][865]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 276
+[2019.10.29-20.27.13:240][188]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 266
+[2019.10.29-20.27.16:595][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 256
+[2019.10.29-20.27.18:460][639]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 246
+[2019.10.29-20.27.19:102][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 236
+[2019.10.29-20.27.19:260][733]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 226
+[2019.10.29-20.27.22:402][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 216
+[2019.10.29-20.27.23:363][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 206
+[2019.10.29-20.27.24:640][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 196
+[2019.10.29-20.27.27:432][687]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 186
+[2019.10.29-20.27.28:414][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 176
+[2019.10.29-20.27.30:888][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2019.10.29-20.27.32:066][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 156
+[2019.10.29-20.27.32:607][296]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2019.10.29-20.27.35:250][610]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 136
+[2019.10.29-20.27.36:112][713]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2019.10.29-20.27.37:453][871]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 116
+[2019.10.29-20.27.38:046][942]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2019.10.29-20.27.40:713][250]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 96
+[2019.10.29-20.27.43:391][533]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2019.10.29-20.27.43:740][572]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2019.10.29-20.27.46:378][849]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2019.10.29-20.27.47:600][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2019.10.29-20.27.48:764][132]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2019.10.29-20.27.51:749][483]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.10.29-20.27.51:772][486]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.10.29-20.27.54:430][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.29-20.27.55:868][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.29-20.27.56:438][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.29-20.27.56:668][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.29-20.27.57:530][164]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.29-20.27.57:814][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.29-20.27.58:385][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.29-20.27.58:578][286]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
